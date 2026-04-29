@@ -1,0 +1,22 @@
+.h12{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-color: brown;
+margin-left: 700px;
+ width:85px ;
+ padding: 20px 20px 20px 20px;
+border-radius: 10px;
+}
+
+.h13 {
+  font-size: 100px;  
+  margin-left: 650px;
+  color: skyblue;
+}
+
+.h14{
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: 50px;
+    color: gold;
+}
